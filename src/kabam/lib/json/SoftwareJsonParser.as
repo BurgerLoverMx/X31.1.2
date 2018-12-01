@@ -18,7 +18,7 @@ package kabam.lib.json
 
         public function parse(_arg_1:String):Object
         {
-            return (com.adobe.serialization.json.JSON.decode(_arg_1));
+            return _arg_1 ? (com.adobe.serialization.json.JSON.decode(_arg_1)) : null;
         }
 
 

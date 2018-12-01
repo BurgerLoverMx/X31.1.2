@@ -1,16 +1,11 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
+package kabam.rotmg.assets {
+import mx.core.*;
 
-//kabam.rotmg.assets.EmbeddedData_battleOryxGroundCXML
-
-package kabam.rotmg.assets
-{
-    import mx.core.ByteArrayAsset;
-
-    public class EmbeddedData_battleOryxGroundCXML extends ByteArrayAsset 
-    {
-
-
+[Embed(source="EmbeddedData_battleOryxGroundCXML.dat", mimeType="application/octet-stream")]
+public class EmbeddedData_battleOryxGroundCXML extends ByteArrayAsset {
+    public function EmbeddedData_battleOryxGroundCXML(){
+        super();
+        return;
     }
-}//package kabam.rotmg.assets
-
+}
+}

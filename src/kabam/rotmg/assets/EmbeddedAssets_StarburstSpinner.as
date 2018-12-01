@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.assets.EmbeddedAssets_StarburstSpinner
-
-package kabam.rotmg.assets
+package kabam.rotmg.assets 
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class EmbeddedAssets_StarburstSpinner extends BitmapAsset 
+[Embed(source="EmbeddedAssets_StarburstSpinner.png")]
+    public class EmbeddedAssets_StarburstSpinner extends BitmapAsset
     {
+        public function EmbeddedAssets_StarburstSpinner()
+        {
+            super();
 
-
+        }
     }
-}//package kabam.rotmg.assets
-
+}

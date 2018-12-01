@@ -1,16 +1,11 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
+package kabam.rotmg.assets {
+import mx.core.*;
 
-//kabam.rotmg.assets.EmbeddedData_magicWoodsObjectsCXML
-
-package kabam.rotmg.assets
-{
-    import mx.core.ByteArrayAsset;
-
-    public class EmbeddedData_magicWoodsObjectsCXML extends ByteArrayAsset 
-    {
-
-
+[Embed(source="EmbeddedData_magicWoodsObjectsCXML.dat", mimeType="application/octet-stream")]
+public class EmbeddedData_magicWoodsObjectsCXML extends ByteArrayAsset {
+    public function EmbeddedData_magicWoodsObjectsCXML(){
+        super();
+        return;
     }
-}//package kabam.rotmg.assets
-
+}
+}

@@ -25,18 +25,18 @@ package kabam.rotmg.classes.view
     public class CharacterSkinView extends Sprite 
     {
 
-        private const base:ScreenBase = CharacterSkinView.makeScreenBase();
-        private const account:AccountScreen = CharacterSkinView.makeAccountScreen();
-        private const lines:Shape = CharacterSkinView.makeLines();
-        private const creditsDisplay:CreditDisplay = CharacterSkinView.makeCreditDisplay();
-        private const graphic:ScreenGraphic = CharacterSkinView.makeScreenGraphic();
-        private const playBtn:TitleMenuOption = CharacterSkinView.makePlayButton();
-        private const backBtn:TitleMenuOption = CharacterSkinView.makeBackButton();
-        private const list:CharacterSkinListView = CharacterSkinView.makeListView();
-        private const detail:ClassDetailView = CharacterSkinView.makeClassDetailView();
+        private const base:ScreenBase = makeScreenBase();
+        private const account:AccountScreen = makeAccountScreen();
+        private const lines:Shape = makeLines();
+        private const creditsDisplay:CreditDisplay = makeCreditDisplay();
+        private const graphic:ScreenGraphic = makeScreenGraphic();
+        private const playBtn:TitleMenuOption = makePlayButton();
+        private const backBtn:TitleMenuOption = makeBackButton();
+        private const list:CharacterSkinListView = makeListView();
+        private const detail:ClassDetailView = makeClassDetailView();
         public const play:Signal = new NativeMappedSignal(playBtn, MouseEvent.CLICK);
         public const back:Signal = new NativeMappedSignal(backBtn, MouseEvent.CLICK);
-        public const waiter:SignalWaiter = CharacterSkinView.makeSignalWaiter();
+        public const waiter:SignalWaiter = makeSignalWaiter();
 
 
         private function makeScreenBase():ScreenBase

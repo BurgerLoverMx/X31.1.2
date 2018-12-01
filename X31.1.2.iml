@@ -2,8 +2,13 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="WebMain">
     <configurations>
-      <configuration name="WebMain" output-file="client.swf" output-folder="$MODULE_DIR$/out/production/X31.1.2">
+      <configuration name="WebMain" main-class="WebMain" output-file="client.swf" output-folder="$MODULE_DIR$/out/production/X31.1.2">
         <dependencies target-player="18.0">
+          <entries>
+            <entry library-id="bdd098b3-6f89-4dd2-ac83-de7ce5efdcaa">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
           <sdk name="flex_sdk_4.9.1" />
         </dependencies>
         <compiler-options>
@@ -24,5 +29,16 @@
     </content>
     <orderEntry type="jdk" jdkName="flex_sdk_4.9.1" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="bdd098b3-6f89-4dd2-ac83-de7ce5efdcaa" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>

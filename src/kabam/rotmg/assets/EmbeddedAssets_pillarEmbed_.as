@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.assets.EmbeddedAssets_pillarEmbed_
-
-package kabam.rotmg.assets
+package kabam.rotmg.assets 
 {
-    import mx.core.ByteArrayAsset;
+import mx.core.*;
 
-    public class EmbeddedAssets_pillarEmbed_ extends ByteArrayAsset 
+[Embed(source="EmbeddedAssets_pillarEmbed_.dat", mimeType="application/octet-stream")]
+    public class EmbeddedAssets_pillarEmbed_ extends ByteArrayAsset
     {
+        public function EmbeddedAssets_pillarEmbed_()
+        {
+            super();
 
-
+        }
     }
-}//package kabam.rotmg.assets
-
+}

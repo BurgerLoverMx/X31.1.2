@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.assets.EmbeddedAssets_chars8x8rPetsKaratePenguin_
-
-package kabam.rotmg.assets
+package kabam.rotmg.assets 
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class EmbeddedAssets_chars8x8rPetsKaratePenguin_ extends BitmapAsset 
+[Embed(source="EmbeddedAssets_chars8x8rPetsKaratePenguin_.png")]
+    public class EmbeddedAssets_chars8x8rPetsKaratePenguin_ extends BitmapAsset
     {
+        public function EmbeddedAssets_chars8x8rPetsKaratePenguin_()
+        {
+            super();
 
-
+        }
     }
-}//package kabam.rotmg.assets
-
+}

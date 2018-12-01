@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.assets.EmbeddedAssets_squatty3Side_
-
-package kabam.rotmg.assets
+package kabam.rotmg.assets 
 {
-    import mx.core.ByteArrayAsset;
+import mx.core.*;
 
-    public class EmbeddedAssets_squatty3Side_ extends ByteArrayAsset 
+[Embed(source="EmbeddedAssets_squatty3Side_.dat", mimeType="application/octet-stream")]
+    public class EmbeddedAssets_squatty3Side_ extends ByteArrayAsset
     {
+        public function EmbeddedAssets_squatty3Side_()
+        {
+            super();
 
-
+        }
     }
-}//package kabam.rotmg.assets
-
+}

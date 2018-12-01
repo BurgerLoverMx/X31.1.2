@@ -1,16 +1,11 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
+package kabam.rotmg.assets {
+import mx.core.*;
 
-//kabam.rotmg.assets.EmbeddedData_summerNexusObjectCXML
-
-package kabam.rotmg.assets
-{
-    import mx.core.ByteArrayAsset;
-
-    public class EmbeddedData_summerNexusObjectCXML extends ByteArrayAsset 
-    {
-
-
+[Embed(source="EmbeddedData_summerNexusObjectCXML.dat", mimeType="application/octet-stream")]
+public class EmbeddedData_summerNexusObjectCXML extends ByteArrayAsset {
+    public function EmbeddedData_summerNexusObjectCXML(){
+        super();
+        return;
     }
-}//package kabam.rotmg.assets
-
+}
+}

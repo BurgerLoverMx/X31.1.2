@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.assets.EmbeddedAssets_EvolveBackground
-
-package kabam.rotmg.assets
+package kabam.rotmg.assets 
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class EmbeddedAssets_EvolveBackground extends BitmapAsset 
+[Embed(source="EmbeddedAssets_EvolveBackground.jpg")]
+    public class EmbeddedAssets_EvolveBackground extends BitmapAsset
     {
+        public function EmbeddedAssets_EvolveBackground()
+        {
+            super();
 
-
+        }
     }
-}//package kabam.rotmg.assets
-
+}

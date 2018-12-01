@@ -1,16 +1,11 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
+package kabam.rotmg.assets {
+import mx.core.*;
 
-//kabam.rotmg.assets.EmbeddedAssets_lofiPartsEmbed_
-
-package kabam.rotmg.assets
-{
-    import mx.core.BitmapAsset;
-
-    public class EmbeddedAssets_lofiPartsEmbed_ extends BitmapAsset 
-    {
-
-
+[Embed(source="EmbeddedAssets_lofiPartsEmbed_.png")]
+public class EmbeddedAssets_lofiPartsEmbed_ extends BitmapAsset {
+    public function EmbeddedAssets_lofiPartsEmbed_(){
+        super();
+        return;
     }
-}//package kabam.rotmg.assets
-
+}
+}

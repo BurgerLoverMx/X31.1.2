@@ -18,7 +18,7 @@ package kabam.rotmg.classes.view
         public static const WIDTH:int = 442;
         public static const HEIGHT:int = 400;
 
-        private const list:VerticalScrollingList = CharacterSkinListView.makeList();
+        private const list:VerticalScrollingList = makeList();
 
         private var items:Vector.<DisplayObject>;
 

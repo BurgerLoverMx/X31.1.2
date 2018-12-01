@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.assets.EmbeddedAssets_cloningVatEmbed_
-
-package kabam.rotmg.assets
+package kabam.rotmg.assets 
 {
-    import mx.core.ByteArrayAsset;
+import mx.core.*;
 
-    public class EmbeddedAssets_cloningVatEmbed_ extends ByteArrayAsset 
+[Embed(source="EmbeddedAssets_cloningVatEmbed_.dat", mimeType="application/octet-stream")]
+    public class EmbeddedAssets_cloningVatEmbed_ extends ByteArrayAsset
     {
+        public function EmbeddedAssets_cloningVatEmbed_()
+        {
+            super();
 
-
+        }
     }
-}//package kabam.rotmg.assets
-
+}

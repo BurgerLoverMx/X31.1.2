@@ -85,7 +85,7 @@ class Star
     /*private*/ var w_:Number;
     /*private*/ var h_:Number;
     protected var bitmapFill_:GraphicsBitmapFill = new GraphicsBitmapFill(null, new Matrix(), false, false);
-    protected var path_:GraphicsPath = new flash.display.GraphicsPath(StarBackground.as$965:Star.sqCommands, new Vector.<Number>());
+    protected var path_:GraphicsPath = new GraphicsPath(Star.sqCommands, new Vector.<Number>());
 
     public function Star(_arg_1:Number, _arg_2:Number, _arg_3:Number, _arg_4:BitmapData):void
     {

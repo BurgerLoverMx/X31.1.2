@@ -34,12 +34,12 @@ package kabam.rotmg.characters.reskin.view
         private static const BUTTONS_HEIGHT:int = 40;
         private static const TITLE_OFFSET:int = 27;
 
-        private const layoutListener:SignalWaiter = ReskinCharacterView.makeLayoutWaiter();
-        private const background:DialogBackground = ReskinCharacterView.makeBackground();
-        private const title:TextFieldDisplayConcrete = ReskinCharacterView.makeTitle();
-        private const list:CharacterSkinListView = ReskinCharacterView.makeListView();
-        private const cancel:DeprecatedTextButton = ReskinCharacterView.makeCancelButton();
-        private const select:DeprecatedTextButton = ReskinCharacterView.makeSelectButton();
+        private const layoutListener:SignalWaiter = makeLayoutWaiter();
+        private const background:DialogBackground = makeBackground();
+        private const title:TextFieldDisplayConcrete = makeTitle();
+        private const list:CharacterSkinListView = makeListView();
+        private const cancel:DeprecatedTextButton = makeCancelButton();
+        private const select:DeprecatedTextButton = makeSelectButton();
         public const cancelled:Signal = new NativeMappedSignal(cancel, MouseEvent.CLICK);
         public const selected:Signal = new NativeMappedSignal(select, MouseEvent.CLICK);
 

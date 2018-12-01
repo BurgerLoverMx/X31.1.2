@@ -1,16 +1,11 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
+package kabam.rotmg.assets {
+import mx.core.*;
 
-//kabam.rotmg.assets.EmbeddedAssets_playersMaskEmbed_
-
-package kabam.rotmg.assets
-{
-    import mx.core.BitmapAsset;
-
-    public class EmbeddedAssets_playersMaskEmbed_ extends BitmapAsset 
-    {
-
-
+[Embed(source="EmbeddedAssets_playersMaskEmbed_.png")]
+public class EmbeddedAssets_playersMaskEmbed_ extends BitmapAsset {
+    public function EmbeddedAssets_playersMaskEmbed_(){
+        super();
+        return;
     }
-}//package kabam.rotmg.assets
-
+}
+}

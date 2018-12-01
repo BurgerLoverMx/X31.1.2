@@ -1,69 +1,66 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.assets.services.IconFactory
-
 package kabam.rotmg.assets.services
 {
-    import com.company.assembleegameclient.util.TextureRedrawer;
-    import com.company.util.AssetLibrary;
-    import flash.display.BitmapData;
-    import com.company.assembleegameclient.util.redrawers.GlowRedrawer;
-    import com.company.util.BitmapUtil;
-    import flash.display.Bitmap;
-
-    public class IconFactory 
-    {
-
-
-        public static function makeCoin(_arg_1:int=40):BitmapData
-        {
-            var _local_2:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiObj3", 225), null, _arg_1, true, 0, 0);
-            return (cropAndGlowIcon(_local_2));
-        }
-
-        public static function makeFortune():BitmapData
-        {
-            var _local_1:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiCharBig", 32), null, 20, true, 0, 0);
-            return (cropAndGlowIcon(_local_1));
-        }
-
-        public static function makeFame(_arg_1:int=40):BitmapData
-        {
-            var _local_2:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiObj3", 224), null, _arg_1, true, 0, 0);
-            return (cropAndGlowIcon(_local_2));
-        }
-
-        public static function makeGuildFame():BitmapData
-        {
-            var _local_1:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiObj3", 226), null, 40, true, 0, 0);
-            return (cropAndGlowIcon(_local_1));
-        }
-
-        public static function makeSupporterPointsIcon(_arg_1:int=40, _arg_2:Boolean=false):BitmapData
-        {
-            if (_arg_2)
-            {
-                return (cropAndGlowIcon(TextureRedrawer.redraw(AssetLibrary.getImageFromSet("lofiInterfaceBig", 43), _arg_1, true, 0xFFFFFFFF, false, 5, 0x666666)));
-            };
-            return (cropAndGlowIcon(TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiInterfaceBig", 43), null, _arg_1, true, 0, 0)));
-        }
-
-        private static function cropAndGlowIcon(_arg_1:BitmapData):BitmapData
-        {
-            _arg_1 = GlowRedrawer.outlineGlow(_arg_1, 0xFFFFFFFF);
-            return (BitmapUtil.cropToBitmapData(_arg_1, 10, 10, (_arg_1.width - 20), (_arg_1.height - 20)));
-        }
-
-
-        public function makeIconBitmap(_arg_1:int):Bitmap
-        {
-            var _local_2:BitmapData = AssetLibrary.getImageFromSet("lofiInterfaceBig", _arg_1);
-            _local_2 = TextureRedrawer.redraw(_local_2, (320 / _local_2.width), true, 0);
-            return (new Bitmap(_local_2));
-        }
-
-
-    }
-}//package kabam.rotmg.assets.services
-
+   import com.company.assembleegameclient.util.TextureRedrawer;
+   import com.company.assembleegameclient.util.redrawers.GlowRedrawer;
+   import com.company.util.AssetLibrary;
+   import com.company.util.BitmapUtil;
+   import flash.display.Bitmap;
+   import flash.display.BitmapData;
+   
+   public class IconFactory
+   {
+       
+      
+      public function IconFactory()
+      {
+         super();
+      }
+      
+      public static function makeCoin(param1:int = 40) : BitmapData
+      {
+         var _loc2_:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiObj3",225),null,param1,true,0,0);
+         return cropAndGlowIcon(_loc2_);
+      }
+      
+      public static function makeFortune() : BitmapData
+      {
+         var _loc1_:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiCharBig",32),null,20,true,0,0);
+         return cropAndGlowIcon(_loc1_);
+      }
+      
+      public static function makeFame(param1:int = 40) : BitmapData
+      {
+         var _loc2_:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiObj3",224),null,param1,true,0,0);
+         return cropAndGlowIcon(_loc2_);
+      }
+      
+      public static function makeGuildFame() : BitmapData
+      {
+         var _loc1_:BitmapData = TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiObj3",226),null,40,true,0,0);
+         return cropAndGlowIcon(_loc1_);
+      }
+      
+      public static function makeSupporterPointsIcon(param1:int = 40, param2:Boolean = false) : BitmapData
+      {
+         if(param2)
+         {
+            return cropAndGlowIcon(TextureRedrawer.redraw(AssetLibrary.getImageFromSet("lofiInterfaceBig",43),param1,true,4294967295,false,5,6710886));
+         }
+         return cropAndGlowIcon(TextureRedrawer.resize(AssetLibrary.getImageFromSet("lofiInterfaceBig",43),null,param1,true,0,0));
+      }
+      
+      private static function cropAndGlowIcon(param1:BitmapData) : BitmapData
+      {
+         param1 = GlowRedrawer.outlineGlow(param1,4294967295);
+         param1 = BitmapUtil.cropToBitmapData(param1,10,10,param1.width - 20,param1.height - 20);
+         return param1;
+      }
+      
+      public function makeIconBitmap(param1:int) : Bitmap
+      {
+         var _loc2_:BitmapData = AssetLibrary.getImageFromSet("lofiInterfaceBig",param1);
+         _loc2_ = TextureRedrawer.redraw(_loc2_,320 / _loc2_.width,true,0);
+         return new Bitmap(_loc2_);
+      }
+   }
+}

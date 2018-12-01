@@ -56,7 +56,7 @@ package com.company.assembleegameclient.ui.dialogs
 
         public var box_:Sprite = new Sprite();
         public var rect_:Shape = new Shape();
-        public var dialogWidth:int = StaticDialog.setDialogWidth();
+        public var dialogWidth:int = setDialogWidth();
         private var outlineFill_:GraphicsSolidFill = new GraphicsSolidFill(0xFFFFFF, 1);
         private var lineStyle_:GraphicsStroke = new GraphicsStroke(1, false, LineScaleMode.NORMAL, CapsStyle.NONE, JointStyle.ROUND, 3, outlineFill_);
         private var backgroundFill_:GraphicsSolidFill = new GraphicsSolidFill(0x363636, 1);

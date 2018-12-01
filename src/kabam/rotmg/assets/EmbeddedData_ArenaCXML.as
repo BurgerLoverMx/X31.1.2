@@ -1,16 +1,11 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
+package kabam.rotmg.assets {
+import mx.core.*;
 
-//kabam.rotmg.assets.EmbeddedData_ArenaCXML
-
-package kabam.rotmg.assets
-{
-    import mx.core.ByteArrayAsset;
-
-    public class EmbeddedData_ArenaCXML extends ByteArrayAsset 
-    {
-
-
+[Embed(source="EmbeddedData_ArenaCXML.dat", mimeType="application/octet-stream")]
+public class EmbeddedData_ArenaCXML extends ByteArrayAsset {
+    public function EmbeddedData_ArenaCXML(){
+        super();
+        return;
     }
-}//package kabam.rotmg.assets
-
+}
+}

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d58c633a-707b-45f9-962d-e9c6052ae33b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/X31.1.2/client.swf" beforeDir="false" />
-    </list>
+    <list default="true" id="d58c633a-707b-45f9-962d-e9c6052ae33b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +56,12 @@
       <find>campaign_Points</find>
       <find>_arg_2</find>
       <find>sli</find>
+      <find>Butger</find>
+      <find>C:\Users\Burger\Desktop\</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Burger\Desktop\X31.1.2\out</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,7 +116,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="731" />
     <option name="y" value="204" />
     <option name="width" value="1612" />
@@ -295,15 +297,15 @@
       <workItem from="1543643052749" duration="45000" />
       <workItem from="1543643118835" duration="4760000" />
       <workItem from="1543647886071" duration="2636000" />
-      <workItem from="1543684473870" duration="293000" />
+      <workItem from="1543684473870" duration="824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7734000" />
+    <option name="totallyTimeSpent" value="8265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

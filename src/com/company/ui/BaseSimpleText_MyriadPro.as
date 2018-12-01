@@ -1,16 +1,12 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
+﻿//Created by Action Script Viewer - http://www.buraks.com/asv
+package com.company.ui {
+import mx.core.*;
 
-//com.company.ui.BaseSimpleText_MyriadPro
-
-package com.company.ui
-{
-    import mx.core.FontAsset;
-
-    public class BaseSimpleText_MyriadPro extends FontAsset 
-    {
-
+[Embed(source="BaseSimpleText_MyriadPro.swf", symbol="com.company.ui.BaseSimpleText_MyriadPro")]
+public class BaseSimpleText_MyriadPro extends FontAsset {
+    public function BaseSimpleText_MyriadPro() {
+        super();
 
     }
+}
 }//package com.company.ui
-

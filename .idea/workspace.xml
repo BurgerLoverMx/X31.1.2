@@ -3,387 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="d58c633a-707b-45f9-962d-e9c6052ae33b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/X31.1.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/X31.1.2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_CompiledResourceBundleInfo.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/avmplus/DescribeTypeJSON.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/images/PNGEncoder.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/serialization/json/JSON.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/serialization/json/JSONDecoder.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/serialization/json/JSONEncoder.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/serialization/json/JSONParseError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/serialization/json/JSONToken.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/serialization/json/JSONTokenType.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/serialization/json/JSONTokenizer.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/utils/AGALMiniAssembler.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adobe/utils/DictionaryUtil.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/assembleegameclient/background/StarBackground.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/assembleegameclient/background/StarBackground.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/assembleegameclient/screens/TitleMenuOption.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/assembleegameclient/screens/TitleMenuOption.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/dialogs/Dialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/dialogs/Dialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/dialogs/StaticDialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/dialogs/StaticDialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/TimelineLite.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/TimelineMax.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/TweenLite.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/TweenMax.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/core/Animation.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/core/PropTween.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/core/SimpleTimeline.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/Bounce.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/BounceIn.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/BounceInOut.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/BounceOut.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/Ease.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/Expo.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/ExpoIn.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/ExpoInOut.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/ExpoOut.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/Sine.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/SineIn.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/SineInOut.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/easing/SineOut.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/events/TweenEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/AutoAlphaPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/BevelFilterPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/BezierPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/BezierThroughPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/BlurFilterPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/ColorMatrixFilterPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/ColorTransformPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/DropShadowFilterPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/EndArrayPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/FilterPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/FrameLabelPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/FramePlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/GlowFilterPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/HexColorsPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/RemoveTintPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/RoundPropsPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/ShortRotationPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/TintPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/TransformAroundCenterPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/TransformAroundPointPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/TransformMatrixPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/TweenPlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/VisiblePlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greensock/plugins/VolumePlugin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gskinner/motion/GTween.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gskinner/motion/easing/Linear.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gskinner/motion/easing/Sine.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/Crypto.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/HMAC.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/IHMAC.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/IHash.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/MAC.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/MD2.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/MD5.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/SHA1.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/SHA224.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/SHA256.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/hash/SHABase.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/prng/ARC4.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/prng/IPRNG.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/prng/Random.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/rsa/RSAKey.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/AESKey.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/BlowFishKey.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/CBCMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/CFB8Mode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/CFBMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/CTRMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/DESKey.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/ECBMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/ICipher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/IMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/IPad.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/IStreamCipher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/ISymmetricKey.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/IVMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/NullPad.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/OFBMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/PKCS5.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/SimpleIVMode.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/TripleDESKey.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/symmetric/XTeaKey.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/crypto/tls/TLSError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/math/BarrettReduction.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/math/BigInteger.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/math/ClassicReduction.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/math/IReduction.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/math/MontgomeryReduction.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/math/NullReduction.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/math/bi_internal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/Base64.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/Hex.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/Memory.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/ByteString.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/DER.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/IAsn1Type.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/Integer.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/OID.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/ObjectIdentifier.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/PEM.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/PrintableString.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/Sequence.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/Set.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hurlant/util/der/UTCTime.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/Cc.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/Console.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/ConsoleConfig.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/ConsoleStyle.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/KeyBind.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/CommandLine.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/ConsoleCore.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/ConsoleTools.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/Executer.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/Graphing.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/KeyBinder.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/LogReferences.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/Logs.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/MemoryMonitor.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/core/Remoting.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/view/ChannelsPanel.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/view/ConsolePanel.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/view/GraphingPanel.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/view/MainPanel.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/view/PanelsManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/view/RollerPanel.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/view/Ruler.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/vos/GraphGroup.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/vos/GraphInterest.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/vos/Log.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/vos/WeakObject.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junkbyte/console/vos/WeakRef.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/en_US$SharedResources_properties.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/en_US$formatters_properties.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flashx/textLayout/formats/TextAlign.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flashx/textLayout/formats/VerticalAlign.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDetailBubble.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDetailBubble.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCaretaker.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCaretaker.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCategoryItem.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCategoryItem.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ion/utils/png/PNGDecoder.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/component/ArenaQueryDialogHost.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/component/ArenaQueryDialogHost.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/component/HostQueryDetailBubble.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/component/HostQueryDetailBubble.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ArenaLeaderboardTab.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ArenaLeaderboardTab.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ArenaTimer.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ArenaTimer.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ArenaWaveCounter.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ArenaWaveCounter.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/BattleSummaryDialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/BattleSummaryDialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ContinueOrQuitDialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ContinueOrQuitDialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/HostQueryDialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/HostQueryDialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ImminentWaveCountdownClock.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/arena/view/ImminentWaveCountdownClock.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/assets/model/Animation.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/assets/model/Animation.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/characters/reskin/view/ReskinCharacterView.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/characters/reskin/view/ReskinCharacterView.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/characters/reskin/view/ReskinPanel.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/characters/reskin/view/ReskinPanel.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/chat/control/SpamFilter.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/chat/control/SpamFilter.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinLimitedBanner.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinLimitedBanner.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinListItem.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinListItem.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinListView.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinListView.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinView.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinView.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/BusyIndicator.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/BusyIndicator.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageBackground.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageBackground.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageInfoDialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageInfoDialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageOfferDialog.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageOfferDialog.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/util/components/StarsView.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/util/components/StarsView.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/BitmapAsset.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/ByteArrayAsset.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/FlexBitmap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/FontAsset.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/IAssetLayoutFeatures.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/IFlexAsset.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/IFlexDisplayObject.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/IFlexModuleFactory.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/ILayoutDirectionElement.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/IRepeaterClient.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/RSLData.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/Singleton.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/core/mx_internal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/events/FlexEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/events/ModuleEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/events/Request.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/events/ResourceEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/managers/SystemManagerGlobals.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/modules/IModuleInfo.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/modules/ModuleManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/modules/ModuleManagerGlobals.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/resources/IResourceBundle.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/resources/IResourceManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/resources/IResourceModule.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/resources/LocaleSorter.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/resources/ResourceBundle.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/resources/ResourceManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/resources/ResourceManagerImpl.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/utils/NameUtil.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/utils/StringUtil.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/hires/debug/Stats.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/BaseDescription.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/BaseMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/Description.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/DiagnosingMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/Matcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/NullDescription.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/SelfDescribing.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/StringDescription.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/core/AllOfMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/core/IsNotMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/core/allOf.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/core/not.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/object/IsEqualMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/object/IsInstanceOfMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/object/equalTo.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hamcrest/object/instanceOf.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/IOnceSignal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/IPrioritySignal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/ISignal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/ISlot.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/OnceSignal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/Signal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/Slot.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/SlotList.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/natives/INativeDispatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/natives/NativeMappedSignal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/natives/NativeRelaySignal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/osflash/signals/natives/NativeSignal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/InjectionEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/Injector.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/InjectorError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/ClassProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/DependencyProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/ForwardingProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/InjectorUsingProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/LocalOnlyProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/SingletonProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/SoftDependencyProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/dependencyproviders/ValueProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/errors/InjectorInterfaceConstructionError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/errors/InjectorMissingMappingError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/mapping/InjectionMapping.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/mapping/MappingEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/mapping/ProviderlessMapping.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/mapping/UnsealedMapping.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/reflection/DescribeTypeJSONReflector.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/reflection/DescribeTypeReflector.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/reflection/Reflector.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/reflection/ReflectorBase.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/ConstructorInjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/InjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/MethodInjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/NoParamsConstructorInjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/OrderedInjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/PostConstructInjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/PreDestroyInjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/PropertyInjectionPoint.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/typedescriptions/TypeDescription.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/utils/SsInternal.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/swiftsuspenders/utils/TypeDescriptor.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/bundles/mvcs/Command.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/bundles/mvcs/MVCSBundle.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/bundles/mvcs/Mediator.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/bundles/shared/configs/ContextViewListenerConfig.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/CommandCenterExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/api/CommandMappingError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/api/ICommand.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/api/ICommandCenter.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/api/ICommandMapping.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/api/ICommandTrigger.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/dsl/ICommandMapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/dsl/ICommandMappingConfig.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/dsl/ICommandUnmapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/impl/CommandCenter.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/impl/CommandMapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/impl/CommandMapping.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/impl/CommandMappingList.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/commandCenter/impl/NullCommandUnmapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/contextView/ContextViewExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/eventCommandMap/EventCommandMapExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/eventCommandMap/api/IEventCommandMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/eventCommandMap/impl/EventCommandExecutor.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/eventCommandMap/impl/EventCommandFactory.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/eventCommandMap/impl/EventCommandMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/eventCommandMap/impl/EventCommandTrigger.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/eventDispatcher/EventDispatcherExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/localEventMap/LocalEventMapExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/localEventMap/api/IEventMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/localEventMap/impl/EventMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/localEventMap/impl/EventMapConfig.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/logging/LoggingExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/logging/TraceLoggingExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/logging/impl/LogMessageParser.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/logging/impl/TraceLogTarget.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/logging/integration/LoggerProvider.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/matching/ITypeFilter.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/matching/ITypeMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/matching/ITypeMatcherFactory.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/matching/TypeFilter.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/matching/TypeMatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/matching/TypeMatcherError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/MediatorMapExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/api/IMediator.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/api/IMediatorFactory.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/api/IMediatorMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/api/IMediatorMapping.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/api/IMediatorViewHandler.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/api/MediatorFactoryEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorMapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorMappingConfig.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorMappingFinder.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorUnmapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/impl/DefaultMediatorManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorFactory.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMapping.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorViewHandler.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/mediatorMap/impl/NullMediatorUnmapper.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/modularity/ModularityExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/modularity/impl/ContextViewBasedExistenceWatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/modularity/impl/ModularContextEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/modularity/impl/ViewManagerBasedExistenceWatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/signalCommandMap/SignalCommandMapExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/signalCommandMap/api/ISignalCommandMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/signalCommandMap/impl/SignalCommandMap.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/signalCommandMap/impl/SignalCommandTrigger.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/stageSync/StageSyncExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/ManualStageObserverExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/StageObserverExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/ViewManagerExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/api/IViewHandler.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/api/IViewManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ConfigureViewEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ContainerBinding.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ContainerBindingEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ContainerRegistry.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ContainerRegistryEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ManualStageObserver.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/StageObserver.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ViewManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/extensions/viewManager/impl/ViewManagerEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/IBundle.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/IConfig.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/IContext.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/IExtension.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/IGuard.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/ILifecycle.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/ILogTarget.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/ILogger.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/IMessageDispatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/LifecycleEvent.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/LifecycleState.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/LogLevel.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/api/MappingConfigError.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/ConfigManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/Context.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/ExtensionInstaller.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/Lifecycle.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/LifecycleTransition.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/LogManager.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/Logger.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/MappingConfigValidator.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/MessageDispatcher.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/ObjectProcessor.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/Pin.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/UID.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/applyHooks.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/guardsApprove.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/robotlegs/bender/framework/impl/safelyCallBack.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/X31.1.2/client.swf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/X31.1.2/client.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapLoadingScreen.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapLoadingScreen.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/DeleteXGraphic.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/DeleteXGraphic.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/FameIconBackgroundDesign.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/FameIconBackgroundDesign.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/FullCharBoxGraphic.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/FullCharBoxGraphic.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/KabamLogo.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/KabamLogo.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/LockedCharBoxGraphic.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/LockedCharBoxGraphic.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/ScreenGraphic.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/ScreenGraphic.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/StackedLogoR.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/StackedLogoR.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/rotmg/graphics/StarGraphic.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/rotmg/graphics/StarGraphic.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ui/BaseSimpleText_MyriadPro.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ui/BaseSimpleText_MyriadPro.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/text/model/FontModel_MyriadPro.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/text/model/FontModel_MyriadPro.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kabam/rotmg/text/model/FontModel_MyriadPro_Bold.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/kabam/rotmg/text/model/FontModel_MyriadPro_Bold.as" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -403,114 +35,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="as" value="33" />
+          <entry key="as" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ActionScript" value="33" />
+          <entry key="ActionScript" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="as" value="84" />
+          <entry key="as" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ActionScript" value="84" />
+          <entry key="ActionScript" value="100" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialog.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/arena/view/HostQueryDialog.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/characters/reskin/view/ReskinCharacterView.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/classes/view/CharacterSkinView.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageOfferDialog.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/packages/view/PackageInfoDialog.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/characters/reskin/view/ReskinPanel.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDetailBubble.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCaretaker.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCategoryItem.as">
+        <entry file="file://$PROJECT_DIR$/src/kabam/lib/json/SoftwareJsonParser.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+            <state relative-caret-position="323">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -553,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDetailBubble.as" />
         <option value="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCaretaker.as" />
         <option value="$PROJECT_DIR$/src/io/decagames/rotmg/pets/components/caretaker/CaretakerQueryDialogCategoryItem.as" />
+        <option value="$PROJECT_DIR$/src/kabam/lib/json/SoftwareJsonParser.as" />
       </list>
     </option>
   </component>
@@ -596,13 +148,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="json&#9;null&#9;null&#10;jsonp&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543644087804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543644493025" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -673,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543643051583</updated>
       <workItem from="1543643052749" duration="45000" />
-      <workItem from="1543643118835" duration="901000" />
+      <workItem from="1543643118835" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="946000" />
+    <option name="totallyTimeSpent" value="1403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -691,11 +244,11 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -949,6 +502,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/lib/json/JsonParser.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/lib/json/SoftwareJsonParser.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>

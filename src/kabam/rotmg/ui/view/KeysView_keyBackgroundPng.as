@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.ui.view.KeysView_keyBackgroundPng
-
 package kabam.rotmg.ui.view
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class KeysView_keyBackgroundPng extends BitmapAsset 
-    {
+[Embed(source="KeysView_keyBackgroundPng.png")]
+	public class KeysView_keyBackgroundPng extends BitmapAsset
+	{
+		public function KeysView_keyBackgroundPng()
+		{
+			super();
 
-
-    }
-}//package kabam.rotmg.ui.view
-
+		}
+	}
+}

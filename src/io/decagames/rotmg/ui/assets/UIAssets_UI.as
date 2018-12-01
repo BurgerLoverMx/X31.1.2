@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//io.decagames.rotmg.ui.assets.UIAssets_UI
-
-package io.decagames.rotmg.ui.assets
+package io.decagames.rotmg.ui.assets 
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class UIAssets_UI extends BitmapAsset 
+[Embed(source="UIAssets_UI.png")]
+    public class UIAssets_UI extends BitmapAsset
     {
+        public function UIAssets_UI()
+        {
+            super();
 
-
+        }
     }
-}//package io.decagames.rotmg.ui.assets
-
+}

@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.news.view.NewsCell_DefaultGraphicLarge
-
 package kabam.rotmg.news.view
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class NewsCell_DefaultGraphicLarge extends BitmapAsset 
-    {
+[Embed(source="NewsCell_DefaultGraphicLarge.jpg")]
+	public class NewsCell_DefaultGraphicLarge extends BitmapAsset
+	{
+		public function NewsCell_DefaultGraphicLarge()
+		{
+			super();
 
-
-    }
-}//package kabam.rotmg.news.view
-
+		}
+	}
+}

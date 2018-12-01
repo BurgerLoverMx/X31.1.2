@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.promotions.view.AlreadyPurchasedBeginnersPackageDialog_hifiBeginnerOfferAlreadyPurchasedEmbed
-
 package kabam.rotmg.promotions.view
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class AlreadyPurchasedBeginnersPackageDialog_hifiBeginnerOfferAlreadyPurchasedEmbed extends BitmapAsset 
-    {
+[Embed(source="AlreadyPurchasedBeginnersPackageDialog_hifiBeginnerOfferAlreadyPurchasedEmbed.png")]
+	public class AlreadyPurchasedBeginnersPackageDialog_hifiBeginnerOfferAlreadyPurchasedEmbed extends BitmapAsset
+	{
+		public function AlreadyPurchasedBeginnersPackageDialog_hifiBeginnerOfferAlreadyPurchasedEmbed()
+		{
+			super();
 
-
-    }
-}//package kabam.rotmg.promotions.view
-
+		}
+	}
+}

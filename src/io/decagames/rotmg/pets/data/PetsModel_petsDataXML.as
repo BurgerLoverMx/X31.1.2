@@ -1,16 +1,16 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//io.decagames.rotmg.pets.data.PetsModel_petsDataXML
-
-package io.decagames.rotmg.pets.data
+﻿package io.decagames.rotmg.pets.data
 {
-    import mx.core.ByteArrayAsset;
+import mx.core.*;
 
-    public class PetsModel_petsDataXML extends ByteArrayAsset 
+[Embed(source="PetsModel_petsDataXML.dat", mimeType="application/octet-stream")]
+    public class PetsModel_petsDataXML extends ByteArrayAsset
     {
+        public function PetsModel_petsDataXML()
+        {
+            super();
 
-
+        }
     }
-}//package io.decagames.rotmg.pets.data
+}
+
 

@@ -88,13 +88,13 @@ package io.decagames.rotmg.ui.texture
             {
                 _local_6 = new Rectangle(_local_5.rectangle.x, _local_5.rectangle.y, _local_5.rectangle.w, _local_5.rectangle.h);
                 _local_7 = _local_5.type;
-            };
+            }
             var _local_8:SliceScalingBitmap = new SliceScalingBitmap(_local_4.bitmapData, _local_7, _local_6);
             _local_8.sourceBitmapName = _arg_2;
             if (_arg_3 != 0)
             {
                 _local_8.width = _arg_3;
-            };
+            }
             return (_local_8);
         }
 

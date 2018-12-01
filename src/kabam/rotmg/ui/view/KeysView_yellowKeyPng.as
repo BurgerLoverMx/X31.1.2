@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.ui.view.KeysView_yellowKeyPng
-
 package kabam.rotmg.ui.view
 {
-    import mx.core.BitmapAsset;
+import mx.core.*;
 
-    public class KeysView_yellowKeyPng extends BitmapAsset 
-    {
+[Embed(source="KeysView_yellowKeyPng.png")]
+	public class KeysView_yellowKeyPng extends BitmapAsset
+	{
+		public function KeysView_yellowKeyPng()
+		{
+			super();
 
-
-    }
-}//package kabam.rotmg.ui.view
-
+		}
+	}
+}

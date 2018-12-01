@@ -1,16 +1,14 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//kabam.rotmg.ui.view.components.MapBackground_EMBEDDED_BACKGROUNDMAP
-
 package kabam.rotmg.ui.view.components
 {
-    import mx.core.ByteArrayAsset;
+import mx.core.*;
 
-    public class MapBackground_EMBEDDED_BACKGROUNDMAP extends ByteArrayAsset 
-    {
+[Embed(source="MapBackground_EMBEDDED_BACKGROUNDMAP.dat", mimeType="application/octet-stream")]
+	public class MapBackground_EMBEDDED_BACKGROUNDMAP extends ByteArrayAsset
+	{
+		public function MapBackground_EMBEDDED_BACKGROUNDMAP()
+		{
+			super();
 
-
-    }
-}//package kabam.rotmg.ui.view.components
-
+		}
+	}
+}

@@ -1,19 +1,18 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
-//io.decagames.rotmg.dailyQuests.view.DailyQuestWindow
+﻿//io.decagames.rotmg.dailyQuests.view.DailyQuestWindow
 
 package io.decagames.rotmg.dailyQuests.view
 {
-    import io.decagames.rotmg.ui.popups.UIPopup;
-    import flash.display.Sprite;
-    import io.decagames.rotmg.dailyQuests.view.list.DailyQuestsList;
-    import io.decagames.rotmg.dailyQuests.view.info.DailyQuestInfo;
-    import io.decagames.rotmg.ui.labels.UILabel;
-    import com.company.assembleegameclient.map.ParticleModalMap;
-    import io.decagames.rotmg.ui.defaults.DefaultLabelFormat;
+import com.company.assembleegameclient.map.ParticleModalMap;
 
-    public class DailyQuestWindow extends UIPopup 
+import flash.display.Sprite;
+
+import io.decagames.rotmg.dailyQuests.view.info.DailyQuestInfo;
+import io.decagames.rotmg.dailyQuests.view.list.DailyQuestsList;
+import io.decagames.rotmg.ui.defaults.DefaultLabelFormat;
+import io.decagames.rotmg.ui.labels.UILabel;
+import io.decagames.rotmg.ui.popups.UIPopup;
+
+public class DailyQuestWindow extends UIPopup
     {
 
         public static const MODAL_WIDTH:int = 600;
@@ -55,7 +54,7 @@ package io.decagames.rotmg.dailyQuests.view
             {
                 DefaultLabelFormat.questCompletedLabel(this.completedTxt, true, false);
                 DefaultLabelFormat.questCompletedLabel(this.completedCounter, true, true);
-            };
+            }
             this.completedCounter.text = ((_arg_1 + "/") + _arg_2);
             this.completedCounter.x = (this.completedCounter.x - this.completedCounter.textWidth);
         }
@@ -70,7 +69,7 @@ package io.decagames.rotmg.dailyQuests.view
             if (((this.questInfo) && (this.questInfo.parent)))
             {
                 this.questInfo.parent.removeChild(this.questInfo);
-            };
+            }
             this.questInfo = new DailyQuestInfo();
             this.questInfo.x = 0x0101;
             this.questInfo.y = 130;
@@ -82,28 +81,24 @@ package io.decagames.rotmg.dailyQuests.view
             if (((this.questList) && (this.questList.parent)))
             {
                 removeChild(this.questList);
-            };
+            }
             this.questList = new DailyQuestsList();
             this.questList.x = 20;
             this.questList.y = 130;
             addChild(this.questList);
         }
 
-        public function showFade(_arg_1:int=0x151515, _arg_2:Boolean=false):void
-        {
-            if (_arg_2)
-            {
+        public function showFade(_arg_1:int=0x151515, _arg_2:Boolean=false):void{
+            if (_arg_2){
                 this.particleLayer = new ParticleModalMap(1);
                 addChild(this.particleLayer);
-            }
-            else
-            {
+            } else {
                 this.fade = new Sprite();
                 this.fade.graphics.clear();
                 this.fade.graphics.beginFill(_arg_1, 0.8);
                 this.fade.graphics.drawRect(0, 0, MODAL_FULL_WIDTH, MODAL_HEIGHT);
                 addChild(this.fade);
-            };
+            }
         }
 
         public function hideFade():void
@@ -111,11 +106,11 @@ package io.decagames.rotmg.dailyQuests.view
             if (((this.fade) && (this.fade.parent)))
             {
                 removeChild(this.fade);
-            };
+            }
             if (((this.particleLayer) && (this.particleLayer.parent)))
             {
                 removeChild(this.particleLayer);
-            };
+            }
         }
 
         public function get closeButton():Sprite
@@ -128,8 +123,7 @@ package io.decagames.rotmg.dailyQuests.view
             return (this._infoButton);
         }
 
-        public function get contentContainer():Sprite
-        {
+        public function get contentContainer():Sprite{
             return (this._contentContainer);
         }
 

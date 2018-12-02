@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.TextureDataConcrete
 
 package com.company.assembleegameclient.objects
@@ -16,7 +13,6 @@ package com.company.assembleegameclient.objects
     import com.company.assembleegameclient.util.AnimatedChar;
     import com.company.assembleegameclient.util.AssetLoader;
     import flash.utils.Dictionary;
-    import __AS3__.vec.*;
     import com.company.assembleegameclient.appengine.*;
 
     public class TextureDataConcrete extends TextureData 

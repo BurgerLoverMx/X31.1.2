@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.news.model.NewsModel
 
 package kabam.rotmg.news.model
@@ -8,10 +5,8 @@ package kabam.rotmg.news.model
     import kabam.rotmg.news.controller.NewsDataUpdatedSignal;
     import kabam.rotmg.news.controller.NewsButtonRefreshSignal;
     import kabam.rotmg.account.core.Account;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.news.view.NewsModalPage;
     import com.company.assembleegameclient.parameters.Parameters;
-    import __AS3__.vec.*;
 
     public class NewsModel 
     {

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.dailyLogin.view.CalendarView
 
 package kabam.rotmg.dailyLogin.view
@@ -8,7 +5,6 @@ package kabam.rotmg.dailyLogin.view
     import flash.display.Sprite;
     import kabam.rotmg.dailyLogin.model.CalendarDayModel;
     import kabam.rotmg.dailyLogin.config.CalendarSettings;
-    import __AS3__.vec.Vector;
 
     public class CalendarView extends Sprite 
     {

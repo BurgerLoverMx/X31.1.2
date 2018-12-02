@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.news.view.NewsModal
 
 package kabam.rotmg.news.view
@@ -10,7 +7,6 @@ package kabam.rotmg.news.view
     import flash.filters.DropShadowFilter;
     import flash.filters.GlowFilter;
     import flash.text.TextField;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.text.model.FontModel;
     import flash.display.Sprite;
     import kabam.rotmg.news.model.NewsModel;

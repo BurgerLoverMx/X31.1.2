@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.util.PaymentMethod
 
 package com.company.assembleegameclient.util
 {
     import kabam.rotmg.text.model.TextKey;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.core.StaticInjectorContext;
     import kabam.rotmg.account.core.Account;
     import kabam.rotmg.application.api.ApplicationSetup;

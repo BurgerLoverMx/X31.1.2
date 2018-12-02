@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.ArenaPortal
 
 package com.company.assembleegameclient.objects
@@ -8,7 +5,6 @@ package com.company.assembleegameclient.objects
     import com.company.assembleegameclient.ui.panels.ArenaPortalPanel;
     import com.company.assembleegameclient.game.GameSprite;
     import com.company.assembleegameclient.ui.panels.Panel;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.assembleegameclient.map.Camera;
     import kabam.rotmg.text.view.stringBuilder.StaticStringBuilder;

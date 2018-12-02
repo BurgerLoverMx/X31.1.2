@@ -1,18 +1,13 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.map.Square
 
 package com.company.assembleegameclient.map
 {
-    import __AS3__.vec.Vector;
     import flash.geom.Vector3D;
     import com.company.assembleegameclient.objects.GameObject;
     import flash.display.BitmapData;
     import com.company.assembleegameclient.engine3d.TextureMatrix;
     import flash.display.IGraphicsData;
     import com.company.assembleegameclient.util.TileRedrawer;
-    import __AS3__.vec.*;
 
     public class Square 
     {

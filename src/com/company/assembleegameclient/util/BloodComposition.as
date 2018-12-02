@@ -1,14 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.util.BloodComposition
 
 package com.company.assembleegameclient.util
 {
     import flash.utils.Dictionary;
-    import __AS3__.vec.Vector;
     import flash.display.BitmapData;
-    import __AS3__.vec.*;
 
     public class BloodComposition 
     {

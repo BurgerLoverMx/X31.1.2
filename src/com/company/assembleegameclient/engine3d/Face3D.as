@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.engine3d.Face3D
 
 package com.company.assembleegameclient.engine3d
 {
     import flash.display.GraphicsSolidFill;
     import flash.display.BitmapData;
-    import __AS3__.vec.Vector;
     import flash.display.GraphicsBitmapFill;
     import flash.display.GraphicsPath;
     import flash.geom.Vector3D;
@@ -18,7 +14,6 @@ package com.company.assembleegameclient.engine3d
     import com.company.assembleegameclient.map.Camera;
     import com.company.util.Triangle;
     import com.company.assembleegameclient.util.TextureRedrawer;
-    import __AS3__.vec.*;
 
     public class Face3D 
     {

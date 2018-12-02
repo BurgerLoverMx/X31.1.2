@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.account.ui.Frame
 
 package com.company.assembleegameclient.account.ui
@@ -9,7 +6,6 @@ package com.company.assembleegameclient.account.ui
     import kabam.rotmg.text.view.TextFieldDisplayConcrete;
     import com.company.assembleegameclient.ui.DeprecatedClickableText;
     import kabam.rotmg.core.service.GoogleAnalytics;
-    import __AS3__.vec.Vector;
     import flash.display.GraphicsSolidFill;
     import flash.display.GraphicsStroke;
     import flash.display.LineScaleMode;
@@ -25,7 +21,6 @@ package com.company.assembleegameclient.account.ui
     import flash.text.TextFieldAutoSize;
     import kabam.rotmg.account.web.view.LabeledField;
     import flash.display.DisplayObject;
-    import __AS3__.vec.*;
 
     public class Frame extends Sprite 
     {

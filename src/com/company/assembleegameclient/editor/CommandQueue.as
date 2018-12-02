@@ -1,12 +1,7 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.editor.CommandQueue
 
 package com.company.assembleegameclient.editor
 {
-    import __AS3__.vec.Vector;
-    import __AS3__.vec.*;
 
     public class CommandQueue 
     {

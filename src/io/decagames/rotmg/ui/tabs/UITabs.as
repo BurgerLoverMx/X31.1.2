@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.ui.tabs.UITabs
 
 package io.decagames.rotmg.ui.tabs
@@ -8,11 +5,9 @@ package io.decagames.rotmg.ui.tabs
     import flash.display.Sprite;
     import org.osflash.signals.Signal;
     import io.decagames.rotmg.social.signals.TabSelectedSignal;
-    import __AS3__.vec.Vector;
     import flash.events.Event;
     import flash.geom.Point;
     import io.decagames.rotmg.ui.defaults.DefaultLabelFormat;
-    import __AS3__.vec.*;
 
     public class UITabs extends Sprite 
     {

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.Scrollbar
 
 package com.company.assembleegameclient.ui
@@ -9,7 +6,6 @@ package com.company.assembleegameclient.ui
     import flash.geom.Rectangle;
     import flash.display.GraphicsSolidFill;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
     import flash.events.MouseEvent;
@@ -17,7 +13,6 @@ package com.company.assembleegameclient.ui
     import flash.display.Graphics;
     import flash.geom.ColorTransform;
     import flash.utils.getTimer;
-    import __AS3__.vec.*;
 
     public class Scrollbar extends Sprite 
     {

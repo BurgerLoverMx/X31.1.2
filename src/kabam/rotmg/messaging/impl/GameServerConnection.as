@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.messaging.impl.GameServerConnection
 
 package kabam.rotmg.messaging.impl
@@ -11,7 +8,6 @@ package kabam.rotmg.messaging.impl
     import flash.utils.ByteArray;
     import kabam.lib.net.impl.SocketServer;
     import com.company.assembleegameclient.objects.GameObject;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.objects.Projectile;
     import com.company.assembleegameclient.objects.Player;
     import kabam.rotmg.messaging.impl.data.SlotObjectData;

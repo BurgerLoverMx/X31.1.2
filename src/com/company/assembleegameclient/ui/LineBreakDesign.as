@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.LineBreakDesign
 
 package com.company.assembleegameclient.ui
@@ -9,10 +6,8 @@ package com.company.assembleegameclient.ui
     import flash.display.GraphicsSolidFill;
     import flash.display.GraphicsPath;
     import flash.display.GraphicsPathWinding;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
-    import __AS3__.vec.*;
 
     public class LineBreakDesign extends Shape 
     {

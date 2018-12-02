@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.tooltip.ToolTip
 
 package com.company.assembleegameclient.ui.tooltip
@@ -13,14 +10,12 @@ package com.company.assembleegameclient.ui.tooltip
     import flash.display.CapsStyle;
     import flash.display.JointStyle;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
     import kabam.rotmg.ui.view.SignalWaiter;
     import flash.filters.DropShadowFilter;
     import flash.events.Event;
     import flash.events.MouseEvent;
-    import __AS3__.vec.*;
 
     public class ToolTip extends Sprite 
     {

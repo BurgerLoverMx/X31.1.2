@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.messaging.impl.PetUpdater
 
 package kabam.rotmg.messaging.impl
@@ -11,7 +8,6 @@ package kabam.rotmg.messaging.impl
     import io.decagames.rotmg.pets.data.vo.AbilityVO;
     import io.decagames.rotmg.pets.data.vo.PetVO;
     import com.company.assembleegameclient.objects.Pet;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.util.ConditionEffect;
 
     public class PetUpdater 

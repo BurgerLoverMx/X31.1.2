@@ -1,11 +1,7 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.map.ParticleModalMap
 
 package com.company.assembleegameclient.map
 {
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.objects.BasicObject;
     import flash.display.IGraphicsData;
     import flash.events.Event;
@@ -16,7 +12,6 @@ package com.company.assembleegameclient.map
     import kabam.rotmg.messaging.impl.data.WorldPosData;
     import com.company.assembleegameclient.objects.particles.ConfettiEffect;
     import com.company.assembleegameclient.objects.particles.LightningEffect;
-    import __AS3__.vec.*;
 
     public class ParticleModalMap extends Map 
     {

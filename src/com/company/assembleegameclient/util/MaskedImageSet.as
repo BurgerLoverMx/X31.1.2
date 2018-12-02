@@ -1,14 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.util.MaskedImageSet
 
 package com.company.assembleegameclient.util
 {
-    import __AS3__.vec.Vector;
     import com.company.util.ImageSet;
     import flash.display.BitmapData;
-    import __AS3__.vec.*;
 
     public class MaskedImageSet 
     {

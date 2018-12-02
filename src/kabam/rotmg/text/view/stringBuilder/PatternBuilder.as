@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.text.view.stringBuilder.PatternBuilder
 
 package kabam.rotmg.text.view.stringBuilder

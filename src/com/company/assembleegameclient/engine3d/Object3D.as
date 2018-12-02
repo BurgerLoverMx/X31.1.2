@@ -1,18 +1,13 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.engine3d.Object3D
 
 package com.company.assembleegameclient.engine3d
 {
-    import __AS3__.vec.Vector;
     import flash.geom.Matrix3D;
     import flash.geom.Vector3D;
     import flash.geom.Utils3D;
     import flash.display.IGraphicsData;
     import com.company.assembleegameclient.map.Camera;
     import flash.display.BitmapData;
-    import __AS3__.vec.*;
 
     public class Object3D 
     {

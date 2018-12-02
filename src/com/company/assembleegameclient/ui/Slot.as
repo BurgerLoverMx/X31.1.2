@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.Slot
 
 package com.company.assembleegameclient.ui
@@ -12,7 +9,6 @@ package com.company.assembleegameclient.ui
     import flash.display.Bitmap;
     import flash.display.GraphicsSolidFill;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
     import flash.geom.Point;
@@ -21,7 +17,6 @@ package com.company.assembleegameclient.ui
     import flash.display.BitmapData;
     import kabam.rotmg.core.StaticInjectorContext;
     import kabam.rotmg.text.view.stringBuilder.StaticStringBuilder;
-    import __AS3__.vec.*;
 
     public class Slot extends Sprite 
     {

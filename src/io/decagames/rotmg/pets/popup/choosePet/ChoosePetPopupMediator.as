@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.pets.popup.choosePet.ChoosePetPopupMediator
 
 package io.decagames.rotmg.pets.popup.choosePet
@@ -11,7 +8,6 @@ package io.decagames.rotmg.pets.popup.choosePet
     import io.decagames.rotmg.pets.data.PetsModel;
     import io.decagames.rotmg.pets.signals.SelectPetSignal;
     import io.decagames.rotmg.pets.signals.ActivatePet;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.pets.components.petItem.PetItem;
     import io.decagames.rotmg.ui.buttons.SliceScalingButton;
     import io.decagames.rotmg.pets.data.vo.PetVO;
@@ -19,7 +15,6 @@ package io.decagames.rotmg.pets.popup.choosePet
     import io.decagames.rotmg.ui.popups.header.PopupHeader;
     import flash.events.MouseEvent;
     import io.decagames.rotmg.ui.buttons.BaseButton;
-    import __AS3__.vec.*;
 
     public class ChoosePetPopupMediator extends Mediator 
     {

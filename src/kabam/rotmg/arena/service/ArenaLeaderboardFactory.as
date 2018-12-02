@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.arena.service.ArenaLeaderboardFactory
 
 package kabam.rotmg.arena.service
@@ -9,12 +6,10 @@ package kabam.rotmg.arena.service
     import kabam.rotmg.assets.services.CharacterFactory;
     import kabam.rotmg.arena.model.CurrentArenaRunModel;
     import kabam.rotmg.arena.model.ArenaLeaderboardEntry;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.pets.data.vo.PetVO;
     import kabam.rotmg.classes.model.CharacterClass;
     import kabam.rotmg.classes.model.CharacterSkin;
     import com.company.util.ConversionUtil;
-    import __AS3__.vec.*;
 
     public class ArenaLeaderboardFactory 
     {

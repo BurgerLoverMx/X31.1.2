@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.lib.ui.impl.VerticalLayout
 
 package kabam.lib.ui.impl
 {
     import kabam.lib.ui.api.Layout;
     import flash.display.DisplayObject;
-    import __AS3__.vec.Vector;
 
     public class VerticalLayout implements Layout 
     {

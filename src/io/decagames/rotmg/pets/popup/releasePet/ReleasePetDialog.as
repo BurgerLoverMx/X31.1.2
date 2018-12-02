@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.pets.popup.releasePet.ReleasePetDialog
 
 package io.decagames.rotmg.pets.popup.releasePet
@@ -8,13 +5,11 @@ package io.decagames.rotmg.pets.popup.releasePet
     import io.decagames.rotmg.ui.popups.modal.TextModal;
     import io.decagames.rotmg.ui.buttons.SliceScalingButton;
     import io.decagames.rotmg.ui.buttons.BaseButton;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.ui.texture.TextureParser;
     import kabam.rotmg.text.view.stringBuilder.LineBuilder;
     import kabam.rotmg.text.model.TextKey;
     import io.decagames.rotmg.ui.defaults.DefaultLabelFormat;
     import io.decagames.rotmg.ui.popups.modal.buttons.ClosePopupButton;
-    import __AS3__.vec.*;
 
     public class ReleasePetDialog extends TextModal 
     {

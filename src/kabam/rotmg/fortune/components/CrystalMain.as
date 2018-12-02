@@ -1,20 +1,15 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.fortune.components.CrystalMain
 
 package kabam.rotmg.fortune.components
 {
     import flash.display.Sprite;
     import flash.display.Bitmap;
-    import __AS3__.vec.Vector;
     import flash.display.BitmapData;
     import com.company.util.AssetLibrary;
     import com.company.assembleegameclient.util.TextureRedrawer;
     import flash.filters.ColorMatrixFilter;
     import com.company.util.MoreColorUtil;
     import flash.events.Event;
-    import __AS3__.vec.*;
 
     public class CrystalMain extends Sprite 
     {

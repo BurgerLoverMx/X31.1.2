@@ -1,11 +1,7 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.menu.PlayerGroupMenu
 
 package com.company.assembleegameclient.ui.menu
 {
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.ui.GameObjectListItem;
     import com.company.assembleegameclient.map.AbstractMap;
     import com.company.assembleegameclient.objects.Player;
@@ -13,7 +9,6 @@ package com.company.assembleegameclient.ui.menu
     import org.osflash.signals.Signal;
     import flash.events.MouseEvent;
     import flash.events.Event;
-    import __AS3__.vec.*;
 
     public class PlayerGroupMenu extends Menu 
     {

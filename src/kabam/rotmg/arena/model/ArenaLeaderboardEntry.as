@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.arena.model.ArenaLeaderboardEntry
 
 package kabam.rotmg.arena.model
 {
     import flash.display.BitmapData;
     import io.decagames.rotmg.pets.data.vo.PetVO;
-    import __AS3__.vec.Vector;
 
     public class ArenaLeaderboardEntry 
     {

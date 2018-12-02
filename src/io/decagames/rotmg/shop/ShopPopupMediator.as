@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.shop.ShopPopupMediator
 
 package io.decagames.rotmg.shop
@@ -26,7 +23,6 @@ package io.decagames.rotmg.shop
     import flash.utils.Timer;
     import io.decagames.rotmg.ui.tabs.UITab;
     import kabam.rotmg.mysterybox.model.MysteryBoxInfo;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.shop.mysteryBox.MysteryBoxTile;
     import kabam.rotmg.packages.model.PackageInfo;
     import io.decagames.rotmg.shop.packages.PackageBoxTile;

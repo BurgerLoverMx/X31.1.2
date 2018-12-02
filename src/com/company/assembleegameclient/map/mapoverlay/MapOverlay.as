@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.map.mapoverlay.MapOverlay
 
 package com.company.assembleegameclient.map.mapoverlay

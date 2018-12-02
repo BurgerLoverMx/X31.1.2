@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.util.GraphicsUtil
 
 package com.company.util
 {
     import flash.display.GraphicsEndFill;
-    import __AS3__.vec.Vector;
     import flash.display.GraphicsPathCommand;
     import flash.display.GraphicsStroke;
     import flash.display.LineScaleMode;

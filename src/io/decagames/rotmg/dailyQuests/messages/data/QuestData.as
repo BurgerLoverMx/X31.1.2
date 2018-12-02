@@ -1,13 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.dailyQuests.messages.data.QuestData
 
 package io.decagames.rotmg.dailyQuests.messages.data
 {
-    import __AS3__.vec.Vector;
     import flash.utils.IDataInput;
-    import __AS3__.vec.*;
 
     public class QuestData 
     {

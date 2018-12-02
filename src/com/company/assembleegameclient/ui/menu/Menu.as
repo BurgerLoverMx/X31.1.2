@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.menu.Menu
 
 package com.company.assembleegameclient.ui.menu
@@ -13,7 +10,6 @@ package com.company.assembleegameclient.ui.menu
     import flash.display.CapsStyle;
     import flash.display.JointStyle;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
     import flash.filters.DropShadowFilter;
@@ -22,7 +18,6 @@ package com.company.assembleegameclient.ui.menu
     import flash.geom.Rectangle;
     import com.company.util.RectangleUtil;
     import com.company.assembleegameclient.objects.Player;
-    import __AS3__.vec.*;
 
     public class Menu extends Sprite implements UnFocusAble 
     {

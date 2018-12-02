@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //ru.inspirit.net.events.MultipartURLLoaderEvent
 
 package ru.inspirit.net.events

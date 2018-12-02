@@ -1,14 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.particles.CircleEffect
 
 package com.company.assembleegameclient.objects.particles
 {
     import com.company.assembleegameclient.objects.GameObject;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.util.ColorUtil;
-    import __AS3__.vec.*;
 
     public class CircleEffect extends ParticleEffect 
     {

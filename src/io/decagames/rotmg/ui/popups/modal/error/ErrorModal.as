@@ -1,15 +1,10 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.ui.popups.modal.error.ErrorModal
 
 package io.decagames.rotmg.ui.popups.modal.error
 {
     import io.decagames.rotmg.ui.popups.modal.TextModal;
     import io.decagames.rotmg.ui.buttons.BaseButton;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.ui.popups.modal.buttons.ClosePopupButton;
-    import __AS3__.vec.*;
 
     public class ErrorModal extends TextModal 
     {

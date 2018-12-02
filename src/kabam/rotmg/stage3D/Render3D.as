@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.stage3D.Render3D
 
 package kabam.rotmg.stage3D
@@ -9,7 +6,6 @@ package kabam.rotmg.stage3D
     import flash.display.IGraphicsData;
     import kabam.rotmg.stage3D.Object3D.Object3DStage3D;
     import com.company.assembleegameclient.map.Camera;
-    import __AS3__.vec.*;
 
     public class Render3D extends Signal 
     {

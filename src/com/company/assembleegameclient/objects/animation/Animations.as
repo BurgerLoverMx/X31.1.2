@@ -1,13 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.animation.Animations
 
 package com.company.assembleegameclient.objects.animation
 {
-    import __AS3__.vec.Vector;
     import flash.display.BitmapData;
-    import __AS3__.vec.*;
 
     public class Animations 
     {

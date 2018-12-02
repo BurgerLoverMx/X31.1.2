@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.util.components.SpriteBackground
 
 package kabam.rotmg.util.components
@@ -16,13 +13,11 @@ package kabam.rotmg.util.components
     import kabam.rotmg.text.view.stringBuilder.LineBuilder;
     import flash.display.GraphicsSolidFill;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
     import kabam.rotmg.ui.view.SignalWaiter;
     import com.company.assembleegameclient.util.Currency;
     import kabam.rotmg.text.view.stringBuilder.StringBuilder;
-    import __AS3__.vec.*;
 
     public class SpriteBackground extends Sprite 
     {

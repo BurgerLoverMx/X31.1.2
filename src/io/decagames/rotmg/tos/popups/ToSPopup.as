@@ -1,17 +1,12 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.tos.popups.ToSPopup
 
 package io.decagames.rotmg.tos.popups
 {
     import io.decagames.rotmg.ui.popups.modal.TextModal;
     import io.decagames.rotmg.ui.buttons.BaseButton;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.tos.popups.buttons.RefuseButton;
     import io.decagames.rotmg.tos.popups.buttons.AcceptButton;
     import com.company.assembleegameclient.parameters.Parameters;
-    import __AS3__.vec.*;
 
     public class ToSPopup extends TextModal 
     {

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.mysterybox.model.MysteryBoxInfo
 
 package kabam.rotmg.mysterybox.model
@@ -9,14 +6,12 @@ package kabam.rotmg.mysterybox.model
     import flash.display.DisplayObject;
     import kabam.display.Loader.LoaderProxy;
     import kabam.display.Loader.LoaderProxyConcrete;
-    import __AS3__.vec.Vector;
     import flash.events.Event;
     import flash.events.IOErrorEvent;
     import flash.net.URLRequest;
     import flash.utils.Dictionary;
     import kabam.rotmg.text.view.stringBuilder.LineBuilder;
     import com.company.assembleegameclient.util.TimeUtil;
-    import __AS3__.vec.*;
 
     public class MysteryBoxInfo extends GenericBoxInfo 
     {

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.TradeSlot
 
 package com.company.assembleegameclient.ui
@@ -16,7 +13,6 @@ package com.company.assembleegameclient.ui
     import flash.display.CapsStyle;
     import flash.display.JointStyle;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
     import com.company.util.MoreColorUtil;
@@ -30,7 +26,6 @@ package com.company.assembleegameclient.ui
     import kabam.rotmg.core.signals.HideTooltipsSignal;
     import com.company.assembleegameclient.constants.InventoryOwnerTypes;
     import com.company.assembleegameclient.objects.Player;
-    import __AS3__.vec.*;
 
     public class TradeSlot extends Slot implements TooltipAble 
     {

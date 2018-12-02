@@ -1,14 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.fame.data.TotalFame
 
 package io.decagames.rotmg.fame.data
 {
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.fame.data.bonus.FameBonus;
     import flash.utils.Dictionary;
-    import __AS3__.vec.*;
 
     public class TotalFame 
     {

@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.FortuneTeller
 
 package com.company.assembleegameclient.objects
 {
     import kabam.rotmg.fortune.services.FortuneModel;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.assembleegameclient.map.Camera;
 

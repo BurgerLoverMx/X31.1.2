@@ -1,18 +1,13 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.tooltip.PlayerGroupToolTip
 
 package com.company.assembleegameclient.ui.tooltip
 {
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.objects.Player;
     import com.company.assembleegameclient.ui.GameObjectListItem;
     import kabam.rotmg.text.view.TextFieldDisplayConcrete;
     import kabam.rotmg.text.view.stringBuilder.LineBuilder;
     import kabam.rotmg.text.model.TextKey;
     import flash.filters.DropShadowFilter;
-    import __AS3__.vec.*;
 
     public class PlayerGroupToolTip extends ToolTip 
     {

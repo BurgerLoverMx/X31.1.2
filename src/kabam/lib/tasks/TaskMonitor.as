@@ -1,12 +1,7 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.lib.tasks.TaskMonitor
 
 package kabam.lib.tasks
 {
-    import __AS3__.vec.Vector;
-    import __AS3__.vec.*;
 
     public class TaskMonitor 
     {

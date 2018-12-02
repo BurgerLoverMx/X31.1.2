@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.supportCampaign.tab.tiers.button.status.TierButtonStatus
 
 package io.decagames.rotmg.supportCampaign.tab.tiers.button.status

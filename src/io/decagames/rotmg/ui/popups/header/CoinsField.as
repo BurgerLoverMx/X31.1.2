@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.ui.popups.header.CoinsField
 
 package io.decagames.rotmg.ui.popups.header

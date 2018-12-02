@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.map.GradientOverlay
 
 package com.company.assembleegameclient.map
@@ -10,7 +7,6 @@ package com.company.assembleegameclient.map
     import flash.display.GradientType;
     import com.company.util.GraphicsUtil;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
 
     public class GradientOverlay extends Shape 

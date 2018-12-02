@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.map.partyoverlay.PlayerArrow
 
 package com.company.assembleegameclient.map.partyoverlay
@@ -11,7 +8,6 @@ package com.company.assembleegameclient.map.partyoverlay
     import com.company.assembleegameclient.ui.menu.PlayerGroupMenu;
     import com.company.assembleegameclient.ui.menu.Menu;
     import com.company.assembleegameclient.objects.GameObject;
-    import __AS3__.vec.Vector;
 
     public class PlayerArrow extends GameObjectArrow 
     {

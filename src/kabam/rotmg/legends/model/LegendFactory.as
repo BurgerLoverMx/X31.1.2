@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.legends.model.LegendFactory
 
 package kabam.rotmg.legends.model
@@ -8,11 +5,9 @@ package kabam.rotmg.legends.model
     import kabam.rotmg.core.model.PlayerModel;
     import kabam.rotmg.classes.model.ClassesModel;
     import kabam.rotmg.assets.services.CharacterFactory;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.classes.model.CharacterClass;
     import kabam.rotmg.classes.model.CharacterSkin;
     import com.company.util.ConversionUtil;
-    import __AS3__.vec.*;
 
     public class LegendFactory 
     {

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.TradeInventory
 
 package com.company.assembleegameclient.ui
@@ -9,7 +6,6 @@ package com.company.assembleegameclient.ui
     import com.company.assembleegameclient.game.AGameSprite;
     import com.company.ui.BaseSimpleText;
     import kabam.rotmg.text.view.TextFieldDisplayConcrete;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.messaging.impl.data.TradeItem;
     import flash.filters.DropShadowFilter;
     import kabam.rotmg.constants.GeneralConstants;
@@ -17,7 +13,6 @@ package com.company.assembleegameclient.ui
     import kabam.rotmg.text.model.TextKey;
     import kabam.rotmg.text.view.stringBuilder.LineBuilder;
     import flash.events.Event;
-    import __AS3__.vec.*;
 
     public class TradeInventory extends Sprite 
     {

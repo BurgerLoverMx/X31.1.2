@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.lib.console.model.Console
 
 package kabam.lib.console.model
 {
     import kabam.lib.console.vo.ConsoleAction;
     import org.osflash.signals.Signal;
-    import __AS3__.vec.Vector;
 
     public final class Console 
     {

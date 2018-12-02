@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.core.model.PlayerModel
 
 package kabam.rotmg.core.model
@@ -11,7 +8,6 @@ package kabam.rotmg.core.model
     import kabam.rotmg.account.kongregate.KongregateAccount;
     import com.company.assembleegameclient.parameters.Parameters;
     import com.company.assembleegameclient.appengine.SavedCharacter;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.appengine.SavedNewsItem;
     import kabam.rotmg.servers.api.LatLong;
 

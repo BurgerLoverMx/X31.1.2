@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.account.ui.OfferRadioButtons
 
 package com.company.assembleegameclient.account.ui
@@ -8,7 +5,6 @@ package com.company.assembleegameclient.account.ui
     import flash.display.Sprite;
     import com.company.assembleegameclient.util.offer.Offers;
     import kabam.rotmg.account.core.model.MoneyConfig;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.account.ui.components.SelectionGroup;
     import flash.events.MouseEvent;
     import com.company.assembleegameclient.util.offer.Offer;
@@ -16,7 +12,6 @@ package com.company.assembleegameclient.account.ui
     import flash.display.DisplayObject;
     import kabam.lib.ui.impl.VerticalLayout;
     import kabam.lib.ui.api.Layout;
-    import __AS3__.vec.*;
 
     public class OfferRadioButtons extends Sprite 
     {

@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.tutorial.Tutorial
 
 package com.company.assembleegameclient.tutorial
 {
     import flash.display.Sprite;
     import com.company.assembleegameclient.game.GameSprite;
-    import __AS3__.vec.Vector;
     import flash.display.Shape;
     import kabam.rotmg.core.service.GoogleAnalytics;
     import flash.display.Graphics;
@@ -20,7 +16,6 @@ package com.company.assembleegameclient.tutorial
     import com.company.assembleegameclient.objects.GameObject;
     import flash.filters.BlurFilter;
     import com.company.util.PointUtil;
-    import __AS3__.vec.*;
 
     public class Tutorial extends Sprite 
     {

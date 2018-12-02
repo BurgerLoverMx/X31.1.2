@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.mapeditor.InfoPane
 
 package com.company.assembleegameclient.mapeditor
@@ -13,7 +10,6 @@ package com.company.assembleegameclient.mapeditor
     import flash.display.CapsStyle;
     import flash.display.JointStyle;
     import flash.display.GraphicsPath;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
     import flash.filters.DropShadowFilter;
@@ -22,7 +18,6 @@ package com.company.assembleegameclient.mapeditor
     import com.company.assembleegameclient.map.GroundLibrary;
     import com.company.assembleegameclient.objects.ObjectLibrary;
     import com.company.assembleegameclient.map.RegionLibrary;
-    import __AS3__.vec.*;
 
     public class InfoPane extends Sprite 
     {

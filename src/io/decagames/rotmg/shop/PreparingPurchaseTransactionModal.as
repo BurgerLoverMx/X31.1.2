@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.shop.PreparingPurchaseTransactionModal
 
 package io.decagames.rotmg.shop
 {
     import io.decagames.rotmg.ui.popups.modal.TextModal;
     import io.decagames.rotmg.ui.buttons.BaseButton;
-    import __AS3__.vec.*;
 
     public class PreparingPurchaseTransactionModal extends TextModal 
     {

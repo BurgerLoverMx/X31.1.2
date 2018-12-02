@@ -1,14 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.packages.services.PackageModel
 
 package kabam.rotmg.packages.services
 {
     import org.osflash.signals.Signal;
     import kabam.rotmg.packages.model.PackageInfo;
-    import __AS3__.vec.Vector;
-    import __AS3__.vec.*;
     import kabam.rotmg.packages.model.*;
 
     public class PackageModel 

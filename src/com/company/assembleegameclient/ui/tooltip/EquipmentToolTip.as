@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.tooltip.EquipmentToolTip
 
 package com.company.assembleegameclient.ui.tooltip
@@ -11,7 +8,6 @@ package com.company.assembleegameclient.ui.tooltip
     import io.decagames.rotmg.ui.labels.UILabel;
     import com.company.assembleegameclient.ui.LineBreakDesign;
     import com.company.assembleegameclient.objects.Player;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.game.events.KeyInfoResponseSignal;
     import kabam.rotmg.ui.model.HUDModel;
     import com.company.assembleegameclient.objects.ObjectLibrary;
@@ -32,7 +28,6 @@ package com.company.assembleegameclient.ui.tooltip
     import com.company.assembleegameclient.parameters.Parameters;
     import com.company.util.KeyCodes;
     import kabam.rotmg.text.view.stringBuilder.StringBuilder;
-    import __AS3__.vec.*;
     import kabam.rotmg.constants.*;
 
     public class EquipmentToolTip extends ToolTip 

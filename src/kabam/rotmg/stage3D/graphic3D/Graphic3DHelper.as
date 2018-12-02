@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.stage3D.graphic3D.Graphic3DHelper
 
 package kabam.rotmg.stage3D.graphic3D

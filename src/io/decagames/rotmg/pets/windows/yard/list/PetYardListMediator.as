@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.pets.windows.yard.list.PetYardListMediator
 
 package io.decagames.rotmg.pets.windows.yard.list
@@ -19,7 +16,6 @@ package io.decagames.rotmg.pets.windows.yard.list
     import io.decagames.rotmg.pets.signals.ReleasePetSignal;
     import com.company.assembleegameclient.ui.tooltip.TextToolTip;
     import kabam.rotmg.tooltips.HoverTooltipDelegate;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.pets.components.petItem.PetItem;
     import io.decagames.rotmg.pets.data.rarity.PetRarityEnum;
     import io.decagames.rotmg.pets.popup.upgradeYard.PetYardUpgradeDialog;
@@ -27,7 +23,6 @@ package io.decagames.rotmg.pets.windows.yard.list
     import io.decagames.rotmg.pets.data.vo.PetVO;
     import flash.events.MouseEvent;
     import kabam.rotmg.messaging.impl.EvolvePetInfo;
-    import __AS3__.vec.*;
 
     public class PetYardListMediator extends Mediator 
     {

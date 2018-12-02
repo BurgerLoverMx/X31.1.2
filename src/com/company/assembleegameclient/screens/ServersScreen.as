@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.screens.ServersScreen
 
 package com.company.assembleegameclient.screens
@@ -9,7 +6,6 @@ package com.company.assembleegameclient.screens
     import kabam.rotmg.text.view.TextFieldDisplayConcrete;
     import flash.display.Shape;
     import com.company.assembleegameclient.ui.Scrollbar;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.servers.api.Server;
     import org.osflash.signals.Signal;
     import kabam.rotmg.ui.view.components.ScreenBase;

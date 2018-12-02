@@ -1,15 +1,10 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.mapeditor.Object3DChooser
 
 package com.company.assembleegameclient.mapeditor
 {
     import flash.utils.Dictionary;
-    import __AS3__.vec.Vector;
     import com.company.util.MoreStringUtil;
     import com.company.assembleegameclient.objects.ObjectLibrary;
-    import __AS3__.vec.*;
 
     public class Object3DChooser extends Chooser 
     {

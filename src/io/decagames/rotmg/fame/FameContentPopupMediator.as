@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.fame.FameContentPopupMediator
 
 package io.decagames.rotmg.fame
@@ -18,7 +15,6 @@ package io.decagames.rotmg.fame
     import kabam.rotmg.tooltips.HoverTooltipDelegate;
     import io.decagames.rotmg.fame.data.TotalFame;
     import flash.utils.Dictionary;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.fame.data.bonus.FameBonus;
     import mx.formatters.DateFormatter;
     import com.company.assembleegameclient.objects.Player;
@@ -34,7 +30,6 @@ package io.decagames.rotmg.fame
     import io.decagames.rotmg.ui.buttons.BaseButton;
     import io.decagames.rotmg.characterMetrics.data.MetricsID;
     import io.decagames.rotmg.fame.data.bonus.FameBonusConfig;
-    import __AS3__.vec.*;
 
     public class FameContentPopupMediator extends Mediator 
     {

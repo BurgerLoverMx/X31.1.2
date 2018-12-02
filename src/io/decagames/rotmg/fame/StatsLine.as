@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.fame.StatsLine
 
 package io.decagames.rotmg.fame
@@ -18,8 +15,6 @@ package io.decagames.rotmg.fame
     import io.decagames.rotmg.utils.colors.Tint;
     import flash.display.IGraphicsData;
     import com.company.util.GraphicsUtil;
-    import __AS3__.vec.Vector;
-    import __AS3__.vec.*;
 
     public class StatsLine extends Sprite 
     {

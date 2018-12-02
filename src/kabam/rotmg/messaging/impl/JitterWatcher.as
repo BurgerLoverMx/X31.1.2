@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.messaging.impl.JitterWatcher
 
 package kabam.rotmg.messaging.impl
@@ -8,13 +5,11 @@ package kabam.rotmg.messaging.impl
     import flash.display.Sprite;
     import kabam.rotmg.text.view.stringBuilder.LineBuilder;
     import kabam.rotmg.text.view.TextFieldDisplayConcrete;
-    import __AS3__.vec.Vector;
     import flash.text.TextFieldAutoSize;
     import flash.filters.DropShadowFilter;
     import flash.events.Event;
     import flash.utils.getTimer;
     import kabam.rotmg.text.model.TextKey;
-    import __AS3__.vec.*;
 
     public class JitterWatcher extends Sprite 
     {

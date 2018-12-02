@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.dailyQuests.view.list.DailyQuestsListMediator
 
 package io.decagames.rotmg.dailyQuests.view.list
@@ -9,10 +6,8 @@ package io.decagames.rotmg.dailyQuests.view.list
     import io.decagames.rotmg.dailyQuests.model.DailyQuestsModel;
     import kabam.rotmg.ui.model.HUDModel;
     import io.decagames.rotmg.dailyQuests.model.DailyQuest;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.constants.GeneralConstants;
     import io.decagames.rotmg.dailyQuests.view.info.DailyQuestInfo;
-    import __AS3__.vec.*;
 
     public class DailyQuestsListMediator extends Mediator 
     {

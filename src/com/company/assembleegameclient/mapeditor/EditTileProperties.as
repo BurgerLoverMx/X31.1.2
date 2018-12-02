@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.mapeditor.EditTileProperties
 
 package com.company.assembleegameclient.mapeditor
 {
     import flash.display.Sprite;
-    import __AS3__.vec.Vector;
     import com.company.util.IntPoint;
     import flash.display.Shape;
     import flash.display.Graphics;

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.dailyQuests.view.info.DailyQuestInfoMediator
 
 package io.decagames.rotmg.dailyQuests.view.info
@@ -20,10 +17,8 @@ package io.decagames.rotmg.dailyQuests.view.info
     import flash.events.MouseEvent;
     import kabam.rotmg.messaging.impl.data.SlotObjectData;
     import com.company.assembleegameclient.ui.panels.itemgrids.itemtiles.InventoryTile;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.game.view.components.BackpackTabContent;
     import kabam.rotmg.game.view.components.InventoryTabContent;
-    import __AS3__.vec.*;
 
     public class DailyQuestInfoMediator extends Mediator 
     {

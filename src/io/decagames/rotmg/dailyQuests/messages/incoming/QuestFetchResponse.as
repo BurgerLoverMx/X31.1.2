@@ -1,15 +1,10 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.dailyQuests.messages.incoming.QuestFetchResponse
 
 package io.decagames.rotmg.dailyQuests.messages.incoming
 {
     import kabam.rotmg.messaging.impl.incoming.IncomingMessage;
-    import __AS3__.vec.Vector;
     import io.decagames.rotmg.dailyQuests.messages.data.QuestData;
     import flash.utils.IDataInput;
-    import __AS3__.vec.*;
 
     public class QuestFetchResponse extends IncomingMessage 
     {

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.minimap.view.MiniMapImp
 
 package kabam.rotmg.minimap.view
@@ -9,7 +6,6 @@ package kabam.rotmg.minimap.view
     import flash.geom.Rectangle;
     import flash.geom.Point;
     import flash.display.BitmapData;
-    import __AS3__.vec.Vector;
     import flash.display.Shape;
     import com.company.assembleegameclient.objects.GameObject;
     import com.company.assembleegameclient.ui.tooltip.PlayerGroupToolTip;
@@ -29,7 +25,6 @@ package kabam.rotmg.minimap.view
     import com.company.assembleegameclient.objects.GuildHallPortal;
     import com.company.assembleegameclient.objects.Portal;
     import com.company.util.RectangleUtil;
-    import __AS3__.vec.*;
 
     public class MiniMapImp extends MiniMap 
     {

@@ -1,14 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.mysterybox.services.MysteryBoxModel
 
 package kabam.rotmg.mysterybox.services
 {
     import org.osflash.signals.Signal;
     import kabam.rotmg.mysterybox.model.MysteryBoxInfo;
-    import __AS3__.vec.Vector;
-    import __AS3__.vec.*;
 
     public class MysteryBoxModel 
     {

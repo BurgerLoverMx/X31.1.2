@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //io.decagames.rotmg.pets.data.ability.AbilityConfig
 
 package io.decagames.rotmg.pets.data.ability

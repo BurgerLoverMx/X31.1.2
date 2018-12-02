@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.screens.charrects.CharacterRectList
 
 package com.company.assembleegameclient.screens.charrects
@@ -15,7 +12,6 @@ package com.company.assembleegameclient.screens.charrects
     import com.company.assembleegameclient.appengine.CharacterStats;
     import kabam.rotmg.core.StaticInjectorContext;
     import org.swiftsuspenders.Injector;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.parameters.Parameters;
     import flash.events.MouseEvent;
     import kabam.rotmg.classes.model.CharacterSkin;

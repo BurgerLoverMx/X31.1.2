@@ -1,11 +1,7 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.particles.ShockerEffect
 
 package com.company.assembleegameclient.objects.particles
 {
-    import __AS3__.vec.Vector;
     import flash.display.BitmapData;
     import flash.geom.Point;
     import com.company.assembleegameclient.objects.GameObject;
@@ -14,7 +10,6 @@ package com.company.assembleegameclient.objects.particles
     import com.company.util.ImageSet;
     import com.company.assembleegameclient.util.TextureRedrawer;
     import flash.events.TimerEvent;
-    import __AS3__.vec.*;
 
     public class ShockerEffect extends ParticleEffect 
     {

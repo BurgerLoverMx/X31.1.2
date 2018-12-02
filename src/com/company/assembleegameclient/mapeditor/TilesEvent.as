@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.mapeditor.TilesEvent
 
 package com.company.assembleegameclient.mapeditor
 {
     import flash.events.Event;
-    import __AS3__.vec.Vector;
     import com.company.util.IntPoint;
 
     internal class TilesEvent extends Event 

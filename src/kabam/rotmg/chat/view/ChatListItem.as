@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.chat.view.ChatListItem
 
 package kabam.rotmg.chat.view
 {
     import flash.display.Sprite;
-    import __AS3__.vec.Vector;
     import flash.display.DisplayObject;
     import flash.utils.getTimer;
     import flash.events.MouseEvent;

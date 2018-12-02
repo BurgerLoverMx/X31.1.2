@@ -1,18 +1,13 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.map.partyoverlay.PartyOverlay
 
 package com.company.assembleegameclient.map.partyoverlay
 {
     import flash.display.Sprite;
     import com.company.assembleegameclient.map.Map;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.objects.Party;
     import flash.events.Event;
     import com.company.assembleegameclient.objects.Player;
     import com.company.assembleegameclient.map.Camera;
-    import __AS3__.vec.*;
 
     public class PartyOverlay extends Sprite 
     {

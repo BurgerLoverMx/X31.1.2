@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.engine3d.ObjectFace3D
 
 package com.company.assembleegameclient.engine3d
 {
     import flash.display.BitmapData;
-    import __AS3__.vec.Vector;
     import flash.geom.Vector3D;
     import flash.display.GraphicsPath;
     import flash.display.GraphicsSolidFill;
@@ -20,7 +16,6 @@ package com.company.assembleegameclient.engine3d
     import com.company.util.GraphicsUtil;
     import kabam.rotmg.stage3D.GraphicsFillExtra;
     import flash.display.IGraphicsData;
-    import __AS3__.vec.*;
 
     public class ObjectFace3D 
     {

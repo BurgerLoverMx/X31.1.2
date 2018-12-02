@@ -1,17 +1,12 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.background.StarBackground
 
 package com.company.assembleegameclient.background
 {
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import com.company.assembleegameclient.map.Camera;
     import com.company.util.AssetLibrary;
     import com.company.util.ImageSet;
     import com.company.util.PointUtil;
-    import __AS3__.vec.*;
 
     public class StarBackground extends Background 
     {

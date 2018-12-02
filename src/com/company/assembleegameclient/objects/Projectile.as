@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.Projectile
 
 package com.company.assembleegameclient.objects
@@ -20,7 +17,6 @@ package com.company.assembleegameclient.objects
     import com.company.assembleegameclient.map.Map;
     import com.company.assembleegameclient.map.Square;
     import com.company.assembleegameclient.util.FreeList;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.util.BloodComposition;
     import com.company.assembleegameclient.objects.particles.HitEffect;
     import com.company.assembleegameclient.tutorial.doneAction;
@@ -30,7 +26,6 @@ package com.company.assembleegameclient.objects
     import com.company.assembleegameclient.util.RandomUtil;
     import flash.display.IGraphicsData;
     import com.company.assembleegameclient.map.Camera;
-    import __AS3__.vec.*;
 
     public class Projectile extends BasicObject 
     {

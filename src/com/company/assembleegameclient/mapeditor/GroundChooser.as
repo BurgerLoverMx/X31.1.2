@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.mapeditor.GroundChooser
 
 package com.company.assembleegameclient.mapeditor
@@ -8,12 +5,10 @@ package com.company.assembleegameclient.mapeditor
     import flash.utils.Dictionary;
     import com.company.assembleegameclient.mapeditor.Layer;
     import flash.events.Event;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.mapeditor.GroupDivider;
     import com.company.util.MoreStringUtil;
     import com.company.assembleegameclient.map.GroundLibrary;
     import com.company.assembleegameclient.objects.ObjectLibrary;
-    import __AS3__.vec.*;
     import com.company.assembleegameclient.mapeditor.*;
 
     internal class GroundChooser extends Chooser 

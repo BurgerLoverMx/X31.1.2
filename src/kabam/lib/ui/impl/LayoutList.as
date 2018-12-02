@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.lib.ui.impl.LayoutList
 
 package kabam.lib.ui.impl
@@ -10,12 +7,10 @@ package kabam.lib.ui.impl
     import kabam.lib.ui.api.Layout;
     import kabam.lib.ui.api.Size;
     import org.osflash.signals.Signal;
-    import __AS3__.vec.Vector;
     import flash.display.DisplayObject;
     import flash.display.Shape;
     import flash.geom.Rectangle;
     import flash.display.Graphics;
-    import __AS3__.vec.*;
 
     public class LayoutList extends Sprite implements List 
     {

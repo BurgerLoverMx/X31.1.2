@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.dropdown.DropDown
 
 package com.company.assembleegameclient.ui.dropdown
 {
     import flash.display.Sprite;
-    import __AS3__.vec.Vector;
     import com.company.ui.BaseSimpleText;
     import flash.events.MouseEvent;
     import flash.events.Event;

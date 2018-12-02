@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.ui.options.ChoiceOption
 
 package com.company.assembleegameclient.ui.options
 {
     import com.company.assembleegameclient.parameters.Parameters;
     import flash.events.Event;
-    import __AS3__.vec.Vector;
     import kabam.rotmg.text.view.stringBuilder.StringBuilder;
 
     public class ChoiceOption extends BaseOption 

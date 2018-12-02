@@ -1,12 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.fortune.components.FortuneModal
 
 package kabam.rotmg.fortune.components
 {
     import kabam.rotmg.account.core.view.EmptyFrame;
-    import __AS3__.vec.Vector;
     import flash.text.TextField;
     import org.osflash.signals.Signal;
     import kabam.rotmg.util.components.SimpleButton;
@@ -51,7 +47,6 @@ package kabam.rotmg.fortune.components
     import com.company.assembleegameclient.objects.particles.NovaEffect;
     import kabam.rotmg.messaging.impl.data.WorldPosData;
     import com.company.assembleegameclient.objects.particles.LightningEffect;
-    import __AS3__.vec.*;
 
     public class FortuneModal extends EmptyFrame 
     {

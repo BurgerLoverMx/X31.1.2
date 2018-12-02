@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.arena.view.ArenaLeaderboard
 
 package kabam.rotmg.arena.view
@@ -10,7 +7,6 @@ package kabam.rotmg.arena.view
     import kabam.rotmg.arena.model.ArenaLeaderboardFilter;
     import kabam.rotmg.text.view.StaticTextDisplay;
     import flash.display.Bitmap;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.screens.TitleMenuOption;
     import kabam.rotmg.arena.component.LeaderboardWeeklyResetTimer;
     import com.company.rotmg.graphics.ScreenGraphic;
@@ -29,7 +25,6 @@ package kabam.rotmg.arena.view
     import kabam.rotmg.text.view.TextFieldDisplayConcrete;
     import flash.display.Shape;
     import flash.display.Graphics;
-    import __AS3__.vec.*;
 
     public class ArenaLeaderboard extends Sprite 
     {

@@ -1,13 +1,8 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.lib.console.model.ActionHash
 
 package kabam.lib.console.model
 {
     import org.osflash.signals.Signal;
-    import __AS3__.vec.Vector;
-    import __AS3__.vec.*;
     import kabam.lib.console.model.*;
 
     internal final class ActionHash 

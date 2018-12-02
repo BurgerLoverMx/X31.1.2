@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.background.NexusBackground
 
 package com.company.assembleegameclient.background
 {
     import flash.geom.Point;
     import flash.display.BitmapData;
-    import __AS3__.vec.Vector;
     import flash.display.IGraphicsData;
     import flash.display.GraphicsBitmapFill;
     import flash.geom.Matrix;
@@ -16,7 +12,6 @@ package com.company.assembleegameclient.background
     import flash.display.BitmapDataChannel;
     import flash.geom.Rectangle;
     import com.company.assembleegameclient.map.Camera;
-    import __AS3__.vec.*;
 
     public class NexusBackground extends Background 
     {

@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.objects.particles.ShockParticle
 
 package com.company.assembleegameclient.objects.particles
@@ -8,7 +5,6 @@ package com.company.assembleegameclient.objects.particles
     import com.company.assembleegameclient.objects.thrown.BitmapParticle;
     import com.company.assembleegameclient.objects.GameObject;
     import com.company.assembleegameclient.parameters.Parameters;
-    import __AS3__.vec.Vector;
     import flash.display.BitmapData;
     import flash.geom.Point;
 

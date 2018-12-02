@@ -1,13 +1,9 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //com.company.assembleegameclient.parameters.Parameters
 
 package com.company.assembleegameclient.parameters
 {
     import flash.display.DisplayObject;
     import flash.net.SharedObject;
-    import __AS3__.vec.Vector;
     import flash.utils.Dictionary;
     import com.company.util.KeyCodes;
     import com.company.assembleegameclient.map.Map;

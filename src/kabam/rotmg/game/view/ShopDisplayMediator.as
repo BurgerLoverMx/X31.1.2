@@ -1,6 +1,3 @@
-﻿// Decompiled by AS3 Sorcerer 5.96
-// www.as3sorcerer.com
-
 //kabam.rotmg.game.view.ShopDisplayMediator
 
 package kabam.rotmg.game.view
@@ -13,7 +10,6 @@ package kabam.rotmg.game.view
     import kabam.rotmg.tooltips.HoverTooltipDelegate;
     import kabam.rotmg.packages.model.PackageInfo;
     import flash.events.MouseEvent;
-    import __AS3__.vec.Vector;
     import com.company.assembleegameclient.parameters.Parameters;
 
     public class ShopDisplayMediator extends Mediator 
